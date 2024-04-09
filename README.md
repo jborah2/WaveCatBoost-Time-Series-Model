@@ -1,1 +1,1 @@
-# WaveCatBoost-Time-Series-Model
+# WaveCatBoost Time Series Model
